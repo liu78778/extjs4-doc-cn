@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @private
  *
  * This class is used only by the grid's HeaderContainer docked child.

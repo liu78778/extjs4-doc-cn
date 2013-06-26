@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.draw.Component
  *
  * The Draw Component is a surface in which sprites can be rendered. The Draw Component

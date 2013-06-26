@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.ComponentLoader
  * 
  * This class is used to load content via Ajax into a {@link Ext.Component}. In general 

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.axis.Gauge
  *
  * Gauge Axis is the axis to be used with a Gauge series. The Gauge axis

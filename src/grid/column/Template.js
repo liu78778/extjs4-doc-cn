@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A Column definition class which renders a value by processing a {@link Ext.data.Model Model}'s
  * {@link Ext.data.Model#persistenceProperty data} using a {@link #tpl configured}
  * {@link Ext.XTemplate XTemplate}.

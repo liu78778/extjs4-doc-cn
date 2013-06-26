@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A custom HeaderContainer for the {@link Ext.grid.property.Grid}.
  * Generally it should not need to be used directly.
  */

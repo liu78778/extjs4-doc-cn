@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.fx.Anim
  *
  * This class manages animation for a specific {@link #target}. The animation allows

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class provides a DOM ClassList API to buffer access to an element's class.
  * Instances of this class are created by {@link Ext.layout.ContextItem#getClassList}.
  */

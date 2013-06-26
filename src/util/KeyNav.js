@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides a convenient wrapper for normalized keyboard navigation. KeyNav allows you to bind navigation keys to
  * function calls that will get called when the keys are pressed, providing an easy way to implement custom navigation
  * schemes for any UI component.

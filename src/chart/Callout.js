@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.Callout
  * A mixin providing callout functionality for Ext.chart.series.Series.
  */

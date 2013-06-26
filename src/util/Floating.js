@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A mixin to add floating capability to a Component.
  */
 Ext.define('Ext.util.Floating', {

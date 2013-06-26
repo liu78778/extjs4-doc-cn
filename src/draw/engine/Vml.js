@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.draw.engine.Vml
  * Provides specific methods to draw with VML.
  */

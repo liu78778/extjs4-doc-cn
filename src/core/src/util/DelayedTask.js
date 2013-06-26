@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.util.DelayedTask
  * 
  * The DelayedTask class provides a convenient way to "buffer" the execution of a method,

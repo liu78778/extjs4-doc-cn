@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.direct.RemotingEvent
  * An event that is fired when data is received from a 
  * {@link Ext.direct.RemotingProvider}. Contains a method to the

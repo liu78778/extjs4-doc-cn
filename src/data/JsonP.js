@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.data.JsonP
  * @singleton
  * This class is used to create JSONP requests. JSONP is a mechanism that allows for making

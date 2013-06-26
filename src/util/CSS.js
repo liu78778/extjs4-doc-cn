@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Utility class for manipulating CSS rules
  * @singleton
  */

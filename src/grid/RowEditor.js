@@ -1,4 +1,4 @@
-// Currently has the following issues:
+﻿// Currently has the following issues:
 // - Does not handle postEditValue
 // - Fields without editors need to sync with their values in Store
 // - starting to edit another record while already editing and dirty should probably prevent it

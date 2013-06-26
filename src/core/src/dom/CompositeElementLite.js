@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class encapsulates a *collection* of DOM elements, providing methods to filter members, or to perform collective
  * actions upon the whole set.
  *

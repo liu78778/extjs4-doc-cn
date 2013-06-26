@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Simple header class which is used for on {@link Ext.panel.Panel} and {@link Ext.window.Window}.
  */
 Ext.define('Ext.panel.Header', {

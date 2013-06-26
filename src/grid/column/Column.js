@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class specifies the definition for a column inside a {@link Ext.grid.Panel}. It encompasses
  * both the grid header configuration as well as displaying data within the grid itself. If the
  * {@link #columns} configuration is specified, this column will become a column group and can

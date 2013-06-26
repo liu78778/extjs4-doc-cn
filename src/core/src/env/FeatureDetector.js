@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides useful information about the current browser features.
  * Don't instantiate directly, but use the {@link Ext#features} property instead.
  */

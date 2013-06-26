@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Layout class for {@link Ext.form.field.TextArea} fields. Handles sizing the textarea field.
  * @private
  */

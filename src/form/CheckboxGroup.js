@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A {@link Ext.form.FieldContainer field container} which has a specialized layout for arranging
  * {@link Ext.form.field.Checkbox} controls into columns, and provides convenience
  * {@link Ext.form.field.Field} methods for {@link #getValue getting}, {@link #setValue setting},

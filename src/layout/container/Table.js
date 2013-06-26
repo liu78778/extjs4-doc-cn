@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This layout allows you to easily render content into an HTML table. The total number of columns can be specified, and
  * rowspan and colspan can be used to create complex layouts within the table. This class is intended to be extended or
  * created via the `layout: {type: 'table'}` {@link Ext.container.Container#layout} config, and should generally not

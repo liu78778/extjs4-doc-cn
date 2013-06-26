@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Component layout for components which maintain an inner body element which must be resized to synchronize with the
  * Component size.
  * @private

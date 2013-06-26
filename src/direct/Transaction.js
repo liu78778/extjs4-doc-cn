@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Supporting Class for Ext.Direct (not intended to be used directly).
  */
 Ext.define('Ext.direct.Transaction', {

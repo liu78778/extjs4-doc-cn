@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Private utility class for Ext.layout.container.Border.
  * @private
  */

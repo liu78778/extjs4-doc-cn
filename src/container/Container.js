@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Base class for any Ext.Component that may contain other Components. Containers handle the basic behavior of
  * containing items, namely adding, inserting and removing items.
  *

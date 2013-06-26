@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Manages context information during a layout.
  *
  * # Algorithm

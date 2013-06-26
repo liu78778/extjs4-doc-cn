@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.fx.Queue
  * Animation Queue mixin to handle chaining and queueing by target.
  * @private

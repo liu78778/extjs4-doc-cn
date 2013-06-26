@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A class which handles loading of data from a server into the Fields of an {@link Ext.form.Basic}.
  *
  * Instances of this class are only created by a {@link Ext.form.Basic Form} when {@link Ext.form.Basic#load load}ing.

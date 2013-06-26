@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Used as a view by {@link Ext.tree.Panel TreePanel}.
  */
 Ext.define('Ext.tree.View', {

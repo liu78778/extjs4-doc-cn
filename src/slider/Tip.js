@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Simple plugin for using an Ext.tip.Tip with a slider to show the slider value. In general this class is not created
  * directly, instead pass the {@link Ext.slider.Multi#useTips} and {@link Ext.slider.Multi#tipText} configuration
  * options to the slider directly.

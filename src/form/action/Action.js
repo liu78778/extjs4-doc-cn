@@ -1,4 +1,4 @@
-/**
+﻿/**
  * The subclasses of this class provide actions to perform upon {@link Ext.form.Basic Form}s.
  *
  * Instances of this class are only created by a {@link Ext.form.Basic Form} when the Form needs to perform an action

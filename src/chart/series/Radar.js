@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.series.Radar
  *
  * Creates a Radar Chart. A Radar Chart is a useful visualization technique for comparing different quantitative values for

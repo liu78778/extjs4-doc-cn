@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @private
  * A month picker component. This class is used by the {@link Ext.picker.Date Date picker} class
  * to allow browsing and selection of year/months combinations.

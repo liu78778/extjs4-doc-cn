@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.app.Controller
  *
  * Controllers are the glue that binds an application together. All they really do is listen for events (usually from

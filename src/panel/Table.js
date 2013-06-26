@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Nicolas Ferrero
  *
  * TablePanel is the basis of both {@link Ext.tree.Panel TreePanel} and {@link Ext.grid.Panel GridPanel}.

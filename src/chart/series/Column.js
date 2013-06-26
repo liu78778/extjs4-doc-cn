@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.series.Column
  *
  * Creates a Column Chart. Much of the methods are inherited from Bar. A Column Chart is a useful

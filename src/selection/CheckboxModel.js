@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A selection model that renders a column of checkboxes that can be toggled to
  * select or deselect rows. The default mode for this selection model is MULTI.
  *

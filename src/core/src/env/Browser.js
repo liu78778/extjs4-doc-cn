@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides useful information about the current browser.
  * Should not be manually instantiated unless for unit-testing; access the global instance
  * stored in {@link Ext#browser} instead. Example:

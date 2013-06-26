@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A specific {@link Ext.data.Model} type that represents a name/value pair and is made to work with the
  * {@link Ext.grid.property.Grid}. Typically, Properties do not need to be created directly as they can be
  * created implicitly by simply using the appropriate data configs either via the

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * The TreeStore is a store implementation that is backed by by an {@link Ext.data.Tree}.
  * It provides convenience methods for loading nodes, as well as the ability to use
  * the hierarchical tree structure combined with a store. This class is generally used

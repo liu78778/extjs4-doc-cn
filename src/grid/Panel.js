@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Aaron Conran
  * @docauthor Ed Spencer
  *

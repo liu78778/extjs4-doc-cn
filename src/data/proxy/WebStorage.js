@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * WebStorageProxy is simply a superclass for the {@link Ext.data.proxy.LocalStorage LocalStorage} and {@link

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * The rowbody feature enhances the grid's markup to have an additional
  * tr -> td -> div which spans the entire width of the original row.
  *

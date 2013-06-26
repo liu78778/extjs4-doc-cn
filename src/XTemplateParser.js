@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class parses the XTemplate syntax and calls abstract methods to process the parts.
  * @private
  */

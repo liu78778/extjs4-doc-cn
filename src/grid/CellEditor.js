@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Internal utility class that provides default configuration for cell editing.
  * @private
  */

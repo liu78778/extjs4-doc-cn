@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.axis.Abstract
  * Base class for all axis classes.
  * @private

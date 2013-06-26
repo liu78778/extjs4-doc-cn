@@ -1,4 +1,4 @@
-/**
+﻿/**
  * ToolTip is a {@link Ext.tip.Tip} implementation that handles the common case of displaying a
  * tooltip when hovering over a certain element or elements on the page. It allows fine-grained
  * control over the tooltip's alignment relative to the target element or mouse, and the timing

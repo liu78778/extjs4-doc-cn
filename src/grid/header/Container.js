@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Container which holds headers and is docked at the top or bottom of a TablePanel.
  * The HeaderContainer drives resizing/moving/hiding of columns within the TableView.
  * As headers are hidden, moved or resized the headercontainer is responsible for

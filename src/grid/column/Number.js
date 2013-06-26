@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A Column definition class which renders a numeric data field according to a {@link #format} string.
  *
  *     @example

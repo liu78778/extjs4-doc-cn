@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.ComponentManager
  * <p>Provides a registry of all Components (instances of {@link Ext.Component} or any subclass
  * thereof) on a page so that they can be easily accessed by {@link Ext.Component component}

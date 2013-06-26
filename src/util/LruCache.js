@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @private
  * @class Ext.util.LruCache
  * @extend Ext.util.HashMap

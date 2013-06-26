@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A Provider implementation which saves and retrieves state via cookies. The CookieProvider supports the usual cookie
  * options, such as:
  *

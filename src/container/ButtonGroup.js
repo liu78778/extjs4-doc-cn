@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides a container for arranging a group of related Buttons in a tabular manner.
  *
  *     @example

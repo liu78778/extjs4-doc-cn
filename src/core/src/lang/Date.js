@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.Date
  * A set of useful static methods to deal with date
  * Note that if Ext.Date is required and loaded, it will copy all methods / properties to

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A menu item that contains a togglable checkbox by default, but that can also be a part of a radio group.
  *
  *     @example

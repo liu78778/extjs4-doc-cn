@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A time picker which provides a list of times from which to choose. This is used by the Ext.form.field.Time
  * class to allow browsing and selection of valid times, but could also be used with other components.
  *

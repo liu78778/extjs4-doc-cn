@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Represents an Ext JS 4 application, which is typically a single page app using a {@link Ext.container.Viewport Viewport}.
  * A typical Ext.app.Application might look like this:
  *

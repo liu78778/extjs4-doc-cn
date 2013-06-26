@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A class which handles submission of data from {@link Ext.form.Basic Form}s and processes the returned response.
  *
  * Instances of this class are only created by a {@link Ext.form.Basic Form} when

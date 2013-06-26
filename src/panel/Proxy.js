@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A custom drag proxy implementation specific to {@link Ext.panel.Panel}s. This class
  * is primarily used internally for the Panel's drag drop implementation, and
  * should never need to be created directly.

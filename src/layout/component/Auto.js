@@ -1,4 +1,4 @@
-/**
+﻿/**
  * The class is the default component layout for {@link Ext.Component} when no explicit
  * `{@link Ext.Component#componentLayout componentLayout}` is configured.
  *

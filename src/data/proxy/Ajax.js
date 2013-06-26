@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * AjaxProxy is one of the most widely-used ways of getting data into your application. It uses AJAX requests to load

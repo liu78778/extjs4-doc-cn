@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides a common registry of all menus on a page.
  * @singleton
  */

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.direct.PollingProvider
  *
  * <p>Provides for repetitive polling of the server at distinct {@link #interval intervals}.

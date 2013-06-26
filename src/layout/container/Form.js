@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This is a layout that will render form Fields, one under the other all stretched to the Container width.
  *
  *     @example

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.util.MixedCollection
  * <p>
  * Represents a collection of a set of key and value pairs. Each key in the MixedCollection

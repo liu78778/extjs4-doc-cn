@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A basic hidden field for storing hidden values in forms that need to be passed in the form submit.
  *
  * This creates an actual input element with type="submit" in the DOM. While its label is

@@ -1,4 +1,4 @@
-// backwards compat
+﻿// backwards compat
 Ext.toolbar.Toolbar.Button = Ext.extend(Ext.button.Button, {});
 Ext.toolbar.Toolbar.SplitButton = Ext.extend(Ext.button.Split, {});
 Ext.reg('tbbutton', Ext.toolbar.Toolbar.Button);

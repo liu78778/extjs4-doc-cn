@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Plugin to add header resizing functionality to a HeaderContainer.
  * Always resizing header to the left of the splitter you are resizing.
  */

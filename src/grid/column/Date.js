@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A Column definition class which renders a passed date according to the default locale, or a configured
  * {@link #format}.
  *

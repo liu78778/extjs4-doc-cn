@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.data.Tree
  *
  * This class is used as a container for a series of nodes. The nodes themselves maintain

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @private
  * Private utility class for managing all {@link Ext.form.field.Radio} fields grouped by name.
  */

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @extend Ext.data.IdGenerator
  * @author Don Griffin
  *

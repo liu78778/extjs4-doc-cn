@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.data.JsonPStore
  * @extends Ext.data.Store
  * <p>Small helper class to make creating {@link Ext.data.Store}s from different domain JSON data easier.

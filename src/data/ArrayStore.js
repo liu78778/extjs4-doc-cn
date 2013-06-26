@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * Small helper class to make creating {@link Ext.data.Store}s from Array data easier. An ArrayStore will be

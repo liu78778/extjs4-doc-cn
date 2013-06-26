@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.draw.CompositeSprite
  *
  * A composite Sprite handles a group of sprites with common methods to a sprite

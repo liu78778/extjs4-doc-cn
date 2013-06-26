@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.view.AbstractView
  * This is an abstract superclass and should not be used directly. Please see {@link Ext.view.View}.
  * @private

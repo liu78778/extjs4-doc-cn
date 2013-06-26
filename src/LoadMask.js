@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A modal, floating Component which may be shown above a specified {@link Ext.Component Component} while loading data.
  * When shown, the configured owning Component will be covered with a modality mask, and the LoadMask's {@link #msg} will be
  * displayed centered, accompanied by a spinner image.

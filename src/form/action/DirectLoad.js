@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides {@link Ext.direct.Manager} support for loading form data.
  *
  * This example illustrates usage of Ext.direct.Direct to **load** a form through Ext.Direct.

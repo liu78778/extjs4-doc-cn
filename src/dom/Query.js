@@ -1,4 +1,4 @@
-/*
+﻿/*
  * This is code is also distributed under MIT license for use
  * with jQuery and prototype JavaScript libraries.
  */

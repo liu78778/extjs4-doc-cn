@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Ext.Direct aims to streamline communication between the client and server by providing a single interface that
  * reduces the amount of common code typically required to validate data and handle returned data packets (reading data,
  * error conditions, etc).

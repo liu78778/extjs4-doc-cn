@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.LegendItem
  * A single item of a legend (marker plus label)
  */

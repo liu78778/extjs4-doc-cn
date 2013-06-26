@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Handles mapping key events to handling functions for an element or a Component. One KeyMap can be used for multiple
  * actions.
  *

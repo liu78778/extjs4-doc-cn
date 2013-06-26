@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This is a layout that manages multiple Panels in an expandable accordion style such that only
  * **one Panel can be expanded at any given time**. Each Panel has built-in support for expanding and collapsing.
  *

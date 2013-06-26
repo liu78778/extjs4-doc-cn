@@ -1,4 +1,4 @@
-/**
+﻿/**
  * FieldContainer is a derivation of {@link Ext.container.Container Container} that implements the
  * {@link Ext.form.Labelable Labelable} mixin. This allows it to be configured so that it is rendered with
  * a {@link #fieldLabel field label} and optional {@link #msgTarget error message} around its sub-items.

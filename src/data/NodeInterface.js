@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class is used as a set of methods that are applied to the prototype of a
  * Model to decorate it with a Node API. This means that models used in conjunction with a tree
  * will have all of the tree related methods available on the model. In general this class will

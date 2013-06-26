@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A class that manages a group of {@link Ext.Component#floating} Components and provides z-order management,
  * and Component activation behavior, including masking below the active (topmost) Component.
  *

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.util.AbstractMixedCollection
  * @private
  */

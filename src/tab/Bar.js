@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  * TabBar is used internally by a {@link Ext.tab.Panel TabPanel} and typically should not need to be created manually.
  * The tab bar automatically removes the default title provided by {@link Ext.panel.Header}

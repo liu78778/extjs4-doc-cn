@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.data.association.HasOne
  * 
  * Represents a one to one association with another model. The owner model is expected to have

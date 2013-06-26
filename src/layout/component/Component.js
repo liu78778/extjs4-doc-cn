@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class is intended to be extended or created via the {@link Ext.Component#componentLayout layout}
  * configuration property.  See {@link Ext.Component#componentLayout} for additional details.
  * @private

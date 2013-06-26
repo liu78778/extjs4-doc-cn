@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class provides a container DD instance that allows dropping on multiple child target nodes.
  *
  * By default, this class requires that child nodes accepting drop are registered with {@link Ext.dd.Registry}.

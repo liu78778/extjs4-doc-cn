@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.Label
  *
  * Labels is a mixin to the Series class. Labels methods are implemented

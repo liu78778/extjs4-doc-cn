@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This is a utility class that can be passed into a {@link Ext.grid.column.Column} as a column config that provides
  * an automatic row numbering column.
  * 

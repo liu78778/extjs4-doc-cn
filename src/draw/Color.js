@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Represents an RGB color and provides helper functions get
  * color components in HSL color space.
  */

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A simple class that renders text directly into a toolbar.
  *
  *     @example

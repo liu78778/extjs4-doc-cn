@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A class which handles submission of data from {@link Ext.form.Basic Form}s using a standard `<form>` element submit.
  * It does not handle the response from the submit.
  *

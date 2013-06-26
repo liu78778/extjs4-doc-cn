@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * In-memory proxy. This proxy simply uses a local variable for data storage/retrieval, so its contents are lost on

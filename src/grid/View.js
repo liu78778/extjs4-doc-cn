@@ -1,4 +1,4 @@
-/**
+﻿/**
  * The grid View class provides extra {@link Ext.grid.Panel} specific functionality to the
  * {@link Ext.view.Table}. In general, this class is not instanced directly, instead a viewConfig
  * option is passed to the grid:

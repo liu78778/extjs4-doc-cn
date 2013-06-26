@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * The LocalStorageProxy uses the new HTML5 localStorage API to save {@link Ext.data.Model Model} data locally on the

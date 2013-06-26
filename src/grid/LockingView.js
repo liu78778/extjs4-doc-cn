@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class is used internally to provide a single interface when using
  * a locking grid. Internally, the locking grid creates two separate grids,
  * so this class is used to map calls appropriately.

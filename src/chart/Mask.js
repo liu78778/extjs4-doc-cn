@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Defines a mask for a chart's series.
  * The 'chart' member must be set prior to rendering.
  *

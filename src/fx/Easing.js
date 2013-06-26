@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.fx.Easing
  *
  * This class contains a series of function definitions used to modify values during an animation.

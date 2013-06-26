@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class encapsulates the user interface for a tabular data set.
  * It acts as a centralized manager for controlling the various interface
  * elements of the view. This includes handling events, such as row and cell

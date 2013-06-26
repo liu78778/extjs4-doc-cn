@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class is used as a mixin.
  *
  * This class is to be used to provide basic methods for binding/unbinding stores to other

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides a handle for 9-point resizing of Elements or Components.
  */
 Ext.define('Ext.resizer.Handle', {

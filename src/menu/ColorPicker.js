@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A menu containing a Ext.picker.Color Component.
  *
  * Notes:

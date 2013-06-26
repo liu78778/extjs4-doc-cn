@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.draw.engine.Svg
  * Provides specific methods to draw with SVG.
  */

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.Tip
  * Provides tips for Ext.chart.series.Series.
  */

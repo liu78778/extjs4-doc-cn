@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides a convenient wrapper for TextFields that adds a clickable trigger button (looks like a combobox by default).
  * The trigger has no default action, so you must assign a function to implement the trigger click handler by overriding
  * {@link #onTriggerClick}. You can create a Trigger field directly, as it renders exactly like a combobox for which you

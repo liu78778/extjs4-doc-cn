@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.Array
  * @singleton
  * @author Jacky Nguyen <jacky@sencha.com>

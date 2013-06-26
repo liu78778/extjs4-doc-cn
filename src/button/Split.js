@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A split button that provides a built-in dropdown arrow that can fire an event separately from the default click event
  * of the button. Typically this would be used to display a dropdown menu that provides additional options to the
  * primary button action, but any custom handler can provide the arrowclick implementation.  Example usage:

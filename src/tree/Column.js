@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides indentation and folder structure markup for a Tree taking into account
  * depth and position within the tree hierarchy.
  * 

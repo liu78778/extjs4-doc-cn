@@ -1,4 +1,4 @@
-/**
+﻿/**
  * An Action is a piece of reusable functionality that can be abstracted out of any particular component so that it
  * can be usefully shared among multiple components.  Actions let you share handlers, configuration options and UI
  * updates across any components that support the Action interface (primarily {@link Ext.toolbar.Toolbar},

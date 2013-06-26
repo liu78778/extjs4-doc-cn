@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A mixin for {@link Ext.container.Container} components that are likely to have form fields in their
  * items subtree. Adds the following capabilities:
  *

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.direct.ExceptionEvent
  * An event that is fired when an exception is received from a {@link Ext.direct.RemotingProvider}
  */

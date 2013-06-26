@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.data.writer.Json
 
 This class is used to write {@link Ext.data.Model} data to the server in a JSON format.

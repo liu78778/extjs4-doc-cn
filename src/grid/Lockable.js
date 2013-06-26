@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @private
  *
  * Lockable is a private mixin which injects lockable behavior into any

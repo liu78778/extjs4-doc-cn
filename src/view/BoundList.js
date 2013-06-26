@@ -1,4 +1,4 @@
-/**
+﻿/**
  * An internally used DataView for {@link Ext.form.field.ComboBox ComboBox}.
  */
 Ext.define('Ext.view.BoundList', {

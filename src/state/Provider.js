@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.state.Provider
  * <p>Abstract base class for state provider implementations. The provider is responsible
  * for setting values  and extracting values to/from the underlying storage source. The 

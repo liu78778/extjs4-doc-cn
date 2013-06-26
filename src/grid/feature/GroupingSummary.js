@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This feature adds an aggregate summary row at the bottom of each group that is provided
  * by the {@link Ext.grid.feature.Grouping} feature. There are two aspects to the summary:
  *

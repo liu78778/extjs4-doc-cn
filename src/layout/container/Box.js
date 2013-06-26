@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Base Class for HBoxLayout and VBoxLayout Classes. Generally it should not need to be used directly.
  */
 Ext.define('Ext.layout.container.Box', {

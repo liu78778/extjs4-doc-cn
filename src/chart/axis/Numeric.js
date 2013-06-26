@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.axis.Numeric
  *
  * An axis to handle numeric values. This axis is used for quantitative data as

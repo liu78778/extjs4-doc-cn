@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This is a layout that inherits the anchoring of {@link Ext.layout.container.Anchor} and adds the
  * ability for x/y positioning using the standard x and y component config options.
  *

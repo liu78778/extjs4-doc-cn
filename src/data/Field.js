@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * Fields are used to define what a Model is. They aren't instantiated directly - instead, when we create a class that

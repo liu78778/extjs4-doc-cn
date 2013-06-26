@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @private
  */
 Ext.define('Ext.layout.container.boxOverflow.Menu', {

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A non-rendering placeholder item which instructs the Toolbar's Layout to begin using
  * the right-justified button container.
  *

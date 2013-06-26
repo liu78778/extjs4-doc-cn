@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Represents a 2D point with x and y properties, useful for comparison and instantiation
  * from an event:
  *

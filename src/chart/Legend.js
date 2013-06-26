@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.Legend
  *
  * Defines a legend for a chart's series.

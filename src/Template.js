@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Represents an HTML fragment template. Templates may be {@link #compile precompiled} for greater performance.
  *
  * An instance of this class may be created by passing to the constructor either a single argument, or multiple

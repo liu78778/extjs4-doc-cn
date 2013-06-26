@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer, Tommy Maintz, Brian Moeskau
  *
  * A basic tab container. TabPanels can be used exactly like a standard {@link Ext.panel.Panel} for

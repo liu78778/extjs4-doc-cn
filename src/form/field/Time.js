@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides a time input field with a time dropdown and automatic time validation.
  *
  * This field recognizes and uses JavaScript Date objects as its main {@link #value} type (only the time portion of the

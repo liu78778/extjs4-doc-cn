@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class compiles the XTemplate syntax into a function object. The function is used
  * like so:
  * 

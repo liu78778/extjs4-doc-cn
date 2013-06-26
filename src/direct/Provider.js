@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Ext.direct.Provider is an abstract class meant to be extended.
  *
  * For example Ext JS implements the following subclasses:

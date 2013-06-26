@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @docauthor Jason Johnston <jason@sencha.com>
  *
  * A basic text field.  Can be used as a direct replacement for traditional text inputs,

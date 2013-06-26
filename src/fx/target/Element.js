@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.fx.target.Element
  * 
  * This class represents a animation target for an {@link Ext.Element}. In general this class will not be

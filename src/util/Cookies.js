@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Utility class for setting/reading values from browser cookies.
  * Values can be written using the {@link #set} method.
  * Values can be read using the {@link #get} method.

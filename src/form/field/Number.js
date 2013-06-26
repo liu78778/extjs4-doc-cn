@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @docauthor Jason Johnston <jason@sencha.com>
  *
  * A numeric text field that provides automatic keystroke filtering to disallow non-numeric characters,

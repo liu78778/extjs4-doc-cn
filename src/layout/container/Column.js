@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This is the layout style of choice for creating structural layouts in a multi-column format where the width of each
  * column can be specified as a percentage or fixed width, but the height is allowed to vary based on the content. This
  * class is intended to be extended or created via the layout:'column' {@link Ext.container.Container#layout} config,

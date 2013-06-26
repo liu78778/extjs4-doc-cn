@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A specialized floating Component that supports a drop status icon, {@link Ext.Layer} styles
  * and auto-repair.  This is the default drag proxy used by all Ext.dd components.
  */

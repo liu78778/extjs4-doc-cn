@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.layout.component.Draw
  * @private
  *

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Layout class for {@link Ext.form.field.Text} fields. Handles sizing the input field.
  * @private
  */

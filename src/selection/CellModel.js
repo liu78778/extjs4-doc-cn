@@ -1,4 +1,4 @@
-/**
+﻿/**
  *
  */
 Ext.define('Ext.selection.CellModel', {

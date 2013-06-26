@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Charts provide a flexible way to achieve a wide range of data visualization capablitities.
  * Each Chart gets its data directly from a {@link Ext.data.Store Store}, and automatically
  * updates its display whenever data in the Store changes. In addition, the look and feel

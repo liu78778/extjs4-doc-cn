@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class represents a rectangular region in X,Y space, and performs geometric
  * transformations or tests upon the region.
  *

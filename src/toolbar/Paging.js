@@ -1,4 +1,4 @@
-/**
+﻿/**
  * As the number of records increases, the time required for the browser to render them increases. Paging is used to
  * reduce the amount of data exchanged with the client. Note: if there are more records/rows than can be viewed in the
  * available screen area, vertical scrollbars will be added.

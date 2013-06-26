@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class is used to display small visual icons in the header of a panel. There are a set of
  * 25 icons that can be specified by using the {@link #type} config. The {@link #handler} config
  * can be used to provide a function that will respond to any click events. In general, this class

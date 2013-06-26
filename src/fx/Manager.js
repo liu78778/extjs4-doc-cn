@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.fx.Manager
  * Animation Manager which keeps track of all current animations and manages them on a frame by frame basis.
  * @private

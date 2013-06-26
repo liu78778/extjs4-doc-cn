@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This is a base class for layouts that contain a single item that automatically expands to fill the layout's
  * container. This class is intended to be extended or created via the layout:'fit'
  * {@link Ext.container.Container#layout} config, and should generally not need to be created directly via the new keyword.

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.fx.target.CompositeElementCSS
  * 
  * This class represents a animation target for a {@link Ext.CompositeElement}, where the

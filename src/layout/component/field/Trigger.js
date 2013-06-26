@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Layout class for {@link Ext.form.field.Trigger} fields. Adjusts the input field size to accommodate
  * the trigger button(s).
  * @private

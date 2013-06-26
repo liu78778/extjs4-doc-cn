@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.util.Grouper
 
 Represents a single grouper that can be applied to a Store. The grouper works

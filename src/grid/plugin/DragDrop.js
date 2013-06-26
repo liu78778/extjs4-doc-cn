@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This plugin provides drag and/or drop functionality for a GridView.
  *
  * It creates a specialized instance of {@link Ext.dd.DragZone DragZone} which knows how to drag out of a {@link

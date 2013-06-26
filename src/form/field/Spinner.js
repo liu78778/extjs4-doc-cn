@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A field with a pair of up/down spinner buttons. This class is not normally instantiated directly,
  * instead it is subclassed and the {@link #onSpinUp} and {@link #onSpinDown} methods are implemented
  * to handle when the buttons are clicked. A good example of this is the {@link Ext.form.field.Number}

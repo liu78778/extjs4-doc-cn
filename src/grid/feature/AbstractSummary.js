@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A small abstract class that contains the shared behaviour for any summary
  * calculations to be used in the grid.
  */

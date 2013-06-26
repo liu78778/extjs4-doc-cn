@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * The XML Reader is used by a Proxy to read a server response that is sent back in XML format. This usually happens as

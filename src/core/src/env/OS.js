@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.env.OS
  * Provides useful information about the current operating system environment.
  * Access the global instance stored in {@link Ext#os}. Example:

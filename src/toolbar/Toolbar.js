@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Basic Toolbar class. Although the {@link Ext.container.Container#defaultType defaultType} for
  * Toolbar is {@link Ext.button.Button button}, Toolbar elements (child items for the Toolbar container)
  * may be virtually any type of Component. Toolbar elements can be created explicitly via their

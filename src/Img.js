@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Simple helper class for easily creating image components. This renders an image tag to
  * the DOM with the configured src.
  *

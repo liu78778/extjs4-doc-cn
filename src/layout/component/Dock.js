@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This ComponentLayout handles docking for Panels. It takes care of panels that are
  * part of a ContainerLayout that sets this Panel's size and Panels that are part of
  * an AutoContainerLayout in which this panel get his height based of the CSS or

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * The Ext.grid.plugin.CellEditing plugin injects editing at a cell level for a Grid. Only a single
  * cell will be editable at a time. The field that will be used for the editor is defined at the
  * {@link Ext.grid.column.Column#editor editor}. The editor can be a field instance or a field configuration.

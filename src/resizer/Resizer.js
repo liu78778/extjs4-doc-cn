@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Applies drag handles to an element or component to make it resizable. The drag handles are inserted into the element
  * (or component's element) and positioned absolute.
  *

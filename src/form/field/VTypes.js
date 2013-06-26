@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @singleton
  * @alternateClassName Ext.form.VTypes
  *

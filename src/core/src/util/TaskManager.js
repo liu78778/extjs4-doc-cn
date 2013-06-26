@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides the ability to execute one or more arbitrary tasks in a asynchronous manner.
  * Generally, you can use the singleton {@link Ext.TaskManager} instead, but if needed,
  * you can create separate instances of TaskRunner. Any number of separate tasks can be

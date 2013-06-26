@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A layout that arranges items vertically down a Container. This layout optionally divides available vertical space
  * between child items containing a numeric `flex` configuration.
  *

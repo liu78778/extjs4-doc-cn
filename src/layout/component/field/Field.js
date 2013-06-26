@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Layout class for components with {@link Ext.form.Labelable field labeling}, handling the sizing and alignment of
  * the form control, label, and error message treatment.
  * @private

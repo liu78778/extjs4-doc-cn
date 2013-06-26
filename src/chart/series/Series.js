@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.series.Series
  *
  * Series is the abstract class containing the common logic to all chart series. Series includes

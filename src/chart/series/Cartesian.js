@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.series.Cartesian
  *
  * Common base class for series implementations which plot values using x/y coordinates.

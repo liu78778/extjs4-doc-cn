@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.util.Memento
  * This class manages a set of captured properties from an object. These captured properties
  * can later be restored to an object.

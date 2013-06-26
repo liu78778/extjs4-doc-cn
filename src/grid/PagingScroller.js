@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class monitors scrolling of the {@link Ext.view.Table TableView} within a
  * {@link Ext.grid.Panel GridPanel} which is using a buffered store to only cache
  * and render a small section of a very large dataset.

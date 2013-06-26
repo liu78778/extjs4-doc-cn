@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A simple class that adds a vertical separator bar between toolbar items (css class: 'x-toolbar-separator').
  *
  *     @example

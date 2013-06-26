@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.slider.Thumb
  * @private
  * Represents a single thumb element on a Slider. This would not usually be created manually and would instead

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A specialized tooltip class for tooltips that can be specified in markup and automatically managed
  * by the global {@link Ext.tip.QuickTipManager} instance.  See the QuickTipManager documentation for
  * additional usage details and examples.

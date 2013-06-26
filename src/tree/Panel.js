@@ -1,4 +1,4 @@
-/**
+﻿/**
  * The TreePanel provides tree-structured UI representation of tree-structured data.
  * A TreePanel must be bound to a {@link Ext.data.TreeStore}. TreePanel's support
  * multiple columns through the {@link #columns} configuration.

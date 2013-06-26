@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.state.Stateful
  * A mixin for being able to save the state of an object to an underlying
  * {@link Ext.state.Provider}.

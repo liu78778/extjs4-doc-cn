@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This animation class is a mixin.
  *
  * Ext.util.Animate provides an API for the creation of animated transitions of properties and styles.

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class is intended to be extended or created via the {@link Ext.container.Container#layout layout}
  * configuration property.  See {@link Ext.container.Container#layout} for additional details.
  */

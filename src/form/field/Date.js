@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @docauthor Jason Johnston <jason@sencha.com>
  *
  * Provides a date input field with a {@link Ext.picker.Date date picker} dropdown and automatic date

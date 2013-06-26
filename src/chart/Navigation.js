@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.Navigation
  *
  * Handles panning and zooming capabilities.

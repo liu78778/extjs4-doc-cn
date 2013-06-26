@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Base Layout class - extended by ComponentLayout and ContainerLayout
  */
 Ext.define('Ext.layout.Layout', {

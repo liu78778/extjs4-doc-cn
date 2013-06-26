@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Don Griffin
  *
  * This class is a base for all id generators. It also provides lookup of id generators by

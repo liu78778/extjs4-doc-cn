@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Simple class that can provide a shadow effect for any element.  Note that the element
  * MUST be absolutely positioned, and the shadow does not provide any shimming.  This
  * should be used only in simple cases - for more advanced functionality that can also

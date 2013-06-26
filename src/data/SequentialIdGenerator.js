@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Don Griffin
  *
  * This class is a sequential id generator. A simple use of this class would be like so:

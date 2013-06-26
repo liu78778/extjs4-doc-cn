@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Represents a single sorter that can be applied to a Store. The sorter is used
  * to compare two values against each other for the purpose of ordering them. Ordering
  * is achieved by specifying either:

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class provides an abstract grid editing plugin on selected {@link Ext.grid.column.Column columns}.
  * The editable columns are specified by providing an {@link Ext.grid.column.Column#editor editor}
  * in the {@link Ext.grid.column.Column column configuration}.

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  * 
  * Represents a single Tab in a {@link Ext.tab.Panel TabPanel}. A Tab is simply a slightly customized {@link Ext.button.Button Button}, 

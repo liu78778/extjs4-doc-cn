@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Node Store
  * @private
  */

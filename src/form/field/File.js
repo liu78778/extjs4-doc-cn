@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @docauthor Jason Johnston <jason@sencha.com>
  *
  * A file upload field which has custom styling and allows control over the button text and other

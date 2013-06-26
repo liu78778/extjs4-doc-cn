@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A specialized panel intended for use as an application window. Windows are floated, {@link #resizable}, and
  * {@link #cfg-draggable} by default. Windows can be {@link #maximizable maximized} to fill the viewport, restored to
  * their prior size, and can be {@link #method-minimize}d.

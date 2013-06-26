@@ -1,4 +1,4 @@
-/**
+﻿/**
  * General purpose inflector class that {@link #pluralize pluralizes}, {@link #singularize singularizes} and
  * {@link #ordinalize ordinalizes} words. Sample usage:
  *

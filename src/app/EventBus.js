@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.app.EventBus
  * @private
  */

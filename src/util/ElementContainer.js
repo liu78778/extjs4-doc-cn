@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This mixin enables classes to declare relationships to child elements and provides the
  * mechanics for acquiring the {@link Ext.Element elements} and storing them on an object
  * instance as properties.

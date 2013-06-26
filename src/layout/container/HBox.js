@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A layout that arranges items horizontally across a Container. This layout optionally divides available horizontal
  * space between child items containing a numeric `flex` configuration.
  *

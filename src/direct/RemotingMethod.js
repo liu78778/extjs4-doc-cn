@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Small utility class used internally to represent a Direct method.
  * @private
  */

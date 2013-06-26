@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.fx.target.Sprite
 
  This class represents an animation target for a {@link Ext.draw.Sprite}. In general this class will not be

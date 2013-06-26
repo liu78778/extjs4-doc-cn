@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.axis.Time
  * @extends Ext.chart.axis.Axis
  *

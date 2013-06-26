@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.dom.Helper
  * @extends Ext.dom.AbstractHelper
  * @alternateClassName Ext.DomHelper

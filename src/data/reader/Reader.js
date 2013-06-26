@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * Readers are used to interpret data to be loaded into a {@link Ext.data.Model Model} instance or a {@link

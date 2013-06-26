@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides a lightweight HTML Editor component. Some toolbar features are not supported by Safari and will be
  * automatically hidden when needed. These are noted in the config options where appropriate.
  *

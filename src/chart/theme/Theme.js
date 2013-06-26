@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.theme.Theme
  * 
  * Provides chart theming.

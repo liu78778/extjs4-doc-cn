@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @docauthor Evan Trimboli <evan@sencha.com>
  *
  * Contains a collection of all stores that are created that have an identifier. An identifier can be assigned by

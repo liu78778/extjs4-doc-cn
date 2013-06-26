@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.fx.target.Target
 
 This class specifies a generic target for an animation. It provides a wrapper around a

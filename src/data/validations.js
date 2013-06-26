@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * This singleton contains a set of validation functions that can be used to validate any type of data. They are most

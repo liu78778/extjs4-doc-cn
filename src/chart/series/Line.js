@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.series.Line
  * @extends Ext.chart.series.Cartesian
  *

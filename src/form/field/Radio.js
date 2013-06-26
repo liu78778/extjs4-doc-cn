@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @docauthor Robert Dougan <rob@sencha.com>
  *
  * Single radio field. Similar to checkbox, but automatically handles making sure only one radio is checked

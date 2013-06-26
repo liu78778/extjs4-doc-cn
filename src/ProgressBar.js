@@ -1,4 +1,4 @@
-/**
+﻿/**
  * An updateable progress bar component. The progress bar supports two different modes: manual and automatic.
  *
  * In manual mode, you are responsible for showing, updating (via {@link #updateProgress}) and clearing the progress bar

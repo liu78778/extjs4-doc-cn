@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Creates a Bar Chart. A Bar Chart is a useful visualization technique to display quantitative information for
  * different categories that can show some progression (or regression) in the dataset. As with all other series, the Bar
  * Series must be appended in the *series* Chart array configuration. See the Chart documentation for more information.

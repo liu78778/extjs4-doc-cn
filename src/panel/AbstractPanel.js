@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.panel.AbstractPanel
  * @private
  *

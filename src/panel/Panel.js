@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Panel is a container that has specific functionality and structural components that make it the perfect building
  * block for application-oriented user interfaces.
  *

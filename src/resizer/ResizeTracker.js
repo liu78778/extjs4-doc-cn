@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Private utility class for Ext.resizer.Resizer.
  * @private
  */

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  * 
  * Simple class that represents a Request that will be made by any {@link Ext.data.proxy.Server} subclass.

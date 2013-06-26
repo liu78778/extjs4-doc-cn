@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A wrapper class which can be applied to any element. Fires a "click" event while the
  * mouse is pressed. The interval between firings may be specified in the config but
  * defaults to 20 milliseconds.

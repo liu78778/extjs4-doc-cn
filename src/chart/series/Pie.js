@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.series.Pie
  *
  * Creates a Pie Chart. A Pie Chart is a useful visualization technique to display quantitative information for different

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A simple element that adds extra horizontal space between items in a toolbar.
  * By default a 2px wide space is added via CSS specification:
  *

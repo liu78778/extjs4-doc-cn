@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.dom.Element
  */
 (function(){

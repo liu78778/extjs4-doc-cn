@@ -1,4 +1,4 @@
-/**
+﻿/**
  * The base class that other non-interacting Toolbar Item classes should extend in order to
  * get some basic common toolbar item functionality.
  */

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Tracks what records are currently selected in a databound component.
  *
  * This is an abstract class and is not meant to be directly used. Databound UI widgets such as

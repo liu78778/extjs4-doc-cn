@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Given a component hierarchy of this:
  *
  *      {

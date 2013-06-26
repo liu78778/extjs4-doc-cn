@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Adds custom behavior for left/right keyboard navigation for use with a tree.
  * Depends on the view having an expand and collapse method which accepts a
  * record.

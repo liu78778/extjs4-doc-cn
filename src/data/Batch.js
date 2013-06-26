@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  * @class Ext.data.Batch
  *

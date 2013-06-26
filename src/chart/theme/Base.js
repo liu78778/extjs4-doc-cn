@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides default colors for non-specified things. Should be sub-classed when creating new themes.
  * @private
  */

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides automatic scrolling of overflow regions in the page during drag operations.
  *
  * The ScrollManager configs will be used as the defaults for any scroll container registered with it, but you can also

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @docauthor Robert Dougan <rob@sencha.com>
  *
  * Single checkbox field. Can be used as a direct replacement for traditional checkbox fields. Also serves as a

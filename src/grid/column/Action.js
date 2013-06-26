@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A Grid header type which renders an icon, or a series of icons in a grid cell, and offers a scoped click
  * handler for each icon.
  *

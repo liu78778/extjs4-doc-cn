@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.series.Gauge
  * 
  * Creates a Gauge Chart. Gauge Charts are used to show progress in a certain variable. There are two ways of using the Gauge chart.

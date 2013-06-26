@@ -1,4 +1,4 @@
-/**
+﻿/**
  * The Editor class is used to provide inline editing for elements on the page. The editor
  * is backed by a {@link Ext.form.field.Field} that will be displayed to edit the underlying content.
  * The editor is a floating Component, when the editor is shown it is automatically aligned to

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Component layout for Ext.form.FieldSet components
  * @private
  */

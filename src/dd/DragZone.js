@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class provides a container DD instance that allows dragging of multiple child source nodes.
  *
  * This class does not move the drag target nodes, but a proxy element which may contain any DOM structure you wish. The

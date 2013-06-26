@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @docauthor Jason Johnston <jason@sencha.com>
  * 
  * FormPanel provides a standard container for forms. It is essentially a standard {@link Ext.panel.Panel} which

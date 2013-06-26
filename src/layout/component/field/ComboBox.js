@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Layout class for {@link Ext.form.field.ComboBox} fields. Handles sizing the input field.
  * @private
  */

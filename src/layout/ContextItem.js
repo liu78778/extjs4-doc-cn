@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class manages state information for a component or element during a layout.
  * 
  * # Blocks

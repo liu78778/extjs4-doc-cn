@@ -1,4 +1,4 @@
-/**
+﻿/**
  * An abstract class for fields that have a single trigger which opens a "picker" popup below the field, e.g. a combobox
  * menu list or a date picker. It provides a base implementation for toggling the picker's visibility when the trigger
  * is clicked, as well as keyboard navigation and some basic events. Sizing and alignment of the picker can be

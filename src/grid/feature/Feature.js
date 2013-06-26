@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A feature is a type of plugin that is specific to the {@link Ext.grid.Panel}. It provides several
  * hooks that allows the developer to inject additional functionality at certain points throughout the 
  * grid creation cycle. This class provides the base template methods that are available to the developer,

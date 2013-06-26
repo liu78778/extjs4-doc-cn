@@ -1,4 +1,4 @@
-Ext.require('Ext.util.DelayedTask', function() {
+﻿Ext.require('Ext.util.DelayedTask', function() {
 
     /**
      * Represents single event type that an Observable object listens to.

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * Base class for any client-side storage. Used as a superclass for {@link Ext.data.proxy.Memory Memory} and

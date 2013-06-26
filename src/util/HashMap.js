@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.util.HashMap
  * <p>
  * Represents a collection of a set of key and value pairs. Each key in the HashMap

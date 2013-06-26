@@ -1,4 +1,4 @@
-/**
+﻿/**
  * An abstract base class which provides shared methods for Containers across the Sencha product line.
  *
  * Please refer to sub class's documentation

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A mixin which allows a component to be configured and decorated with a label and/or error message as is
  * common for form fields. This is used by e.g. Ext.form.field.Base and Ext.form.FieldContainer
  * to let them be managed by the Field layout.

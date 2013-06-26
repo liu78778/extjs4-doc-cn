@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A class used to load remote content to an Element. Sample usage:
  *
  *     Ext.get('el').load({

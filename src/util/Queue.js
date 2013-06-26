@@ -1,4 +1,4 @@
-/**
+﻿/**
  * An internal Queue class.
  * @private
  */

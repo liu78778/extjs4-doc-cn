@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Layout class for {@link Ext.form.field.HtmlEditor} fields. Sizes the toolbar, textarea, and iframe elements.
  * @private
  */

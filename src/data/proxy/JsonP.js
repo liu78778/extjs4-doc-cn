@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * The JsonP proxy is useful when you need to load data from a domain other than the one your application is running on. If

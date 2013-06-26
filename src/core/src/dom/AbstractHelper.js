@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.dom.AbstractHelper
  * @private
  * Abstract base class for {@link Ext.dom.Helper}.

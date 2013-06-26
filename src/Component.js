@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Base class for all Ext components. All subclasses of Component may participate in the automated Ext component
  * lifecycle of creation, rendering and destruction which is provided by the {@link Ext.container.Container Container}
  * class. Components may be added to a Container through the {@link Ext.container.Container#cfg-items items} config option

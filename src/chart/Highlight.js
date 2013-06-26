@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.Highlight
  * A mixin providing highlight functionality for Ext.chart.series.Series.
  */

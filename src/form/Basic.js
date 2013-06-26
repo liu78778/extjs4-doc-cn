@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Provides input field management, validation, submission, and form loading services for the collection
  * of {@link Ext.form.field.Field Field} instances within a {@link Ext.container.Container}. It is recommended
  * that you use a {@link Ext.form.Panel} as the form container, as that has logic to automatically

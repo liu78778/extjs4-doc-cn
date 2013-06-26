@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @docauthor Robert Dougan <rob@sencha.com>
  *
  * This class creates a multiline text field, which can be used as a direct replacement for traditional

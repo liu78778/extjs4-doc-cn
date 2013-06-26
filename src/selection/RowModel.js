@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Implements row based navigation via keyboard.
  *
  * Must synchronize across grid sections.

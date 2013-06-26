@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.axis.Category
  *
  * A type of axis that displays items in categories. This axis is generally used to

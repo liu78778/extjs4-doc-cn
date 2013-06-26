@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A menu containing an Ext.picker.Date Component.
  *
  * Notes:

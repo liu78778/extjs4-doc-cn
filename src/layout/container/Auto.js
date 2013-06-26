@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.layout.container.Auto
  *
  * The AutoLayout is the default layout manager delegated by {@link Ext.container.Container} to

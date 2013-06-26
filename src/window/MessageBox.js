@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Utility class for generating different styles of message boxes.  The singleton instance, Ext.MessageBox
  * alias `Ext.Msg` can also be used.
  *

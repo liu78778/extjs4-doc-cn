@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.direct.RemotingProvider
  * 
  * <p>The {@link Ext.direct.RemotingProvider RemotingProvider} exposes access to

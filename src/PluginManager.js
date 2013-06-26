@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @singleton
  *
  * Provides a registry of available Plugin classes indexed by a mnemonic code known as the Plugin's ptype.

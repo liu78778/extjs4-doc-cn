@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * Associations enable you to express relationships between different {@link Ext.data.Model Models}. Let's say we're

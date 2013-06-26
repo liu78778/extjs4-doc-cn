@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A subclass of Ext.dd.DragTracker which handles dragging any Component.
  *
  * This is configured with a Component to be made draggable, and a config object for the {@link Ext.dd.DragTracker}

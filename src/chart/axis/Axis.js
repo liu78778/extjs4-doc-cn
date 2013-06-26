@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.chart.axis.Axis
  *
  * Defines axis for charts. The axis position, type, style can be configured.

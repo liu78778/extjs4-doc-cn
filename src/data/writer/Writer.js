@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * Base Writer class used by most subclasses of {@link Ext.data.proxy.Server}. This class is responsible for taking a

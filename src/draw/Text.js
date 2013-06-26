@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This class encapsulates a drawn text item as rendered by the Ext.draw package within a Component which can be
  * then used anywhere in an ExtJS application just like any other Component.
  *

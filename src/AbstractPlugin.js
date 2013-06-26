@@ -1,4 +1,4 @@
-/**
+﻿/**
  * The AbstractPlugin class is the base class from which user-implemented plugins should inherit.
  *
  * This class defines the essential API of plugins as used by Components by defining the following methods:

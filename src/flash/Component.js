@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A simple Component for displaying an Adobe Flash SWF movie. The movie will be sized and can participate
  * in layout like any other Component.
  *

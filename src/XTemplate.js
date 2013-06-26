@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A template class that supports advanced functionality like:
  *
  * - Autofilling arrays using templates and sub-templates

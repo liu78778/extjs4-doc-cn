@@ -1,4 +1,4 @@
-/**
+﻿/**
  * DD implementation for Panels.
  * @private
  */

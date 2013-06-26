@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.dom.Element
  */
 Ext.dom.Element.override((function() {

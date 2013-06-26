@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.dom.AbstractQuery
  * @private
  */

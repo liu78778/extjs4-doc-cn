@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Jacky Nguyen <jacky@sencha.com>
  * @docauthor Jacky Nguyen <jacky@sencha.com>
  * @class Ext.Object

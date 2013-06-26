@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Component layout for buttons
  * @private
  */

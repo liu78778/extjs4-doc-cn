@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.JSON
  * Modified version of Douglas Crockford's JSON.js that doesn't
  * mess with the Object prototype

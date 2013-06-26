@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A specialized SplitButton that contains a menu of {@link Ext.menu.CheckItem} elements. The button automatically
  * cycles through each menu item on click, raising the button's {@link #change} event (or calling the button's
  * {@link #changeHandler} function, if supplied) for the active menu item. Clicking on the arrow section of the

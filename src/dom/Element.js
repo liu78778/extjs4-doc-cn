@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.dom.Element
  * @alternateClassName Ext.Element
  * @alternateClassName Ext.core.Element

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * The dirty implementation in this class is quite naive. The reasoning for this is that the dirty state
  * will only be used in very specific circumstances, specifically, after the render process has begun but
  * the component is not yet rendered to the DOM. As such, we want it to perform as quickly as possible

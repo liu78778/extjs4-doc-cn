@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.dom.AbstractElement
  * @extend Ext.Base
  * @private

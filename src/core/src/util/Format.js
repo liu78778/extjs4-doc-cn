@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.util.Format
 
 This class is a centralized place for formatting functions. It includes

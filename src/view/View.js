@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A mechanism for displaying data using custom layout templates and formatting.
  *
  * The View uses an {@link Ext.XTemplate} as its internal templating mechanism, and is bound to an

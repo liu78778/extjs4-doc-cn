@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @docauthor Jason Johnston <jason@sencha.com>
  *
  * A combobox control with support for autocomplete, remote loading, and many other features.

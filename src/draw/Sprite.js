@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A Sprite is an object rendered in a Drawing surface.
  *
  * # Translation

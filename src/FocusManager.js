@@ -1,4 +1,4 @@
-/**
+﻿/**
  * The FocusManager is responsible for globally:
  *
  * 1. Managing component focus

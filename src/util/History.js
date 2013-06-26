@@ -1,4 +1,4 @@
-/**
+﻿/**
  * History management component that allows you to register arbitrary tokens that signify application
  * history state on navigation actions.  You can then handle the history {@link #change} event in order
  * to reset your application UI to the appropriate state when the user navigates forward or backward through

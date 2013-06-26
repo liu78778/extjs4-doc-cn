@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.fx.target.CompositeSprite
 
 This class represents a animation target for a {@link Ext.draw.CompositeSprite}. It allows

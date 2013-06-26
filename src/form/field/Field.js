@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @docauthor Jason Johnston <jason@sencha.com>
  *
  * This mixin provides a common interface for the logical behavior and state of form fields, including:

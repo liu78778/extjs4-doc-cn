@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * Simple wrapper class that represents a set of records returned by a Proxy.

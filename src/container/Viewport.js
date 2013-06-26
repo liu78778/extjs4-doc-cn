@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A specialized container representing the viewable application area (the browser viewport).
  *
  * The Viewport renders itself to the document body, and automatically sizes itself to the size of

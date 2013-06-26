@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.state.Manager
  * This is the global state manager. By default all components that are "state aware" check this class
  * for state information if you don't pass them a custom state provider. In order for this class

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This is a multi-pane, application-oriented UI layout style that supports multiple nested panels, automatic bars
  * between regions and built-in {@link Ext.panel.Panel#collapsible expanding and collapsing} of regions.
  *

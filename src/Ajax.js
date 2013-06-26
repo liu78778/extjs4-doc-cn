@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.Ajax
  * @singleton
  * @markdown

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @docauthor Jason Johnston <jason@sencha.com>
  *
  * Base class for form fields that provides default event handling, rendering, and other common functionality

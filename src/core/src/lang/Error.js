@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Brian Moeskau <brian@sencha.com>
  * @docauthor Brian Moeskau <brian@sencha.com>
  *

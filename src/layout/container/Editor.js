@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Component layout for editors
  * @private
  */

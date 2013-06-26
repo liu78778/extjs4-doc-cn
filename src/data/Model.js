@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Ed Spencer
  *
  * A Model represents some object that your application manages. For example, one might define a Model for Users,

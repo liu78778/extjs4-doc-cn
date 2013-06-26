@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.data.Types
  * <p>This is a static class containing the system-supplied data types which may be given to a {@link Ext.data.Field Field}.<p/>
  * <p>The properties in this class are used as type indicators in the {@link Ext.data.Field Field} class, so to

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Component layout for {@link Ext.view.BoundList}.
  * @private
  */

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A DragTracker listens for drag events on an Element and fires events at the start and end of the drag,
  * as well as during the drag. This is useful for components such as {@link Ext.slider.Multi}, where there is
  * an element that can be dragged around to change the Slider's value.

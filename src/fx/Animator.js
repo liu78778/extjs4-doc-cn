@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.fx.Animator
  *
  * This class is used to run keyframe based animations, which follows the CSS3 based animation structure.

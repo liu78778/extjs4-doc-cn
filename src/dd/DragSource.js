@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A simple class that provides the basic implementation needed to make any element draggable.
  */
 Ext.define('Ext.dd.DragSource', {

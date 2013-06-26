@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This is a layout that enables anchoring of contained elements relative to the container's dimensions.
  * If the container is resized, all anchored items are automatically rerendered according to their
  * `{@link #anchor}` rules.

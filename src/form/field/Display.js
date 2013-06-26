@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A display-only text field which is not validated and not submitted. This is useful for when you want to display a
  * value from a form's {@link Ext.form.Basic#load loaded data} but do not want to allow the user to edit or submit that
  * value. The value can be optionally {@link #htmlEncode HTML encoded} if it contains HTML markup that you do not want

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * A date picker. This class is used by the Ext.form.field.Date field to allow browsing and selection of valid
  * dates in a popup next to the field, but may also be used with other components.
  *

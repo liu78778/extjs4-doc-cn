@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @class Ext.draw.Draw
  * Base Drawing class.  Provides base drawing functions.
  * @private

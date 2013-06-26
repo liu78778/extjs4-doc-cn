@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @docauthor Robert Dougan <rob@sencha.com>
  *
  * Create simple buttons with this component. Customisations include {@link #iconAlign aligned}

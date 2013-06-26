@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Private utility class that manages the internal Shadow cache.
  * @private
  */
